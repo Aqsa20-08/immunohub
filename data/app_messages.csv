@@ -1,0 +1,6 @@
+﻿message_id,when_shown,text
+EMPTY_FIELD,A required field is empty,Please enter both a food or trigger and a symptom. The explainer needs both to show relevant background.
+NO_MATCH,Typed symptom text matches no symptom keyword,"We do not have a matching symptom pattern in our current database. Not every reaction is cross-reactivity, and not every reaction is an allergy. Please speak with a healthcare professional for personal advice."
+NO_TRIGGER_MATCH,Typed food or trigger is not in the database,This food or trigger is not in our starter database yet. We are adding verified entries gradually.
+DISCLAIMER,Shown on every result page,"Educational information only. This tool cannot diagnose allergy, assess severity, or decide whether a food is safe for you. For breathing difficulty, throat swelling, faintness, or widespread hives, seek emergency medical care."
+CROSS_REACTIVITY_CAUTION,Whenever cross-reactivity is mentioned,Cross-reactivity means proteins are similar enough that the immune system may react to both. It does not mean that everyone allergic to one will react to the other.
